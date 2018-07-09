@@ -60,6 +60,8 @@ function mostPopularDays(week) {
  *         empty array if the array's lengths are unequal or zero, or if any array is null.
  */
 function createAnimalObjects(names, types, breeds) {
+    const animals = [];
+    
     if (names && types && breeds && names.length && names.length === types.length && names.length === breeds.length) {
         const length = names.length;
     for (let i = 0; i < length; i++){
