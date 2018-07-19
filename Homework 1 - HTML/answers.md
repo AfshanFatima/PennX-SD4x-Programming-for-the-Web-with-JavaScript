@@ -114,29 +114,29 @@ Developing web pages with html
 
 Problem 1
 
-The two child elements of the <html> element in an HTML page are:
+The two child elements of the html element in an HTML page are:
     
 
-<header> and <footer>
-    
-    
-
-<head> and <body>- correct
+header and footer
     
     
 
-<meta> and <content>
+head and body  - correct
     
     
 
-<title> and <body>
+meta and content
+    
+    
+
+title and body
     
     
 
 Answer
 Correct! 
 
-The <head> element contains information about the page and references to external resources; the <body> element contains the content itself.
+The head element contains information about the page and references to external resources; the body element contains the content itself.
     
     
 
@@ -199,29 +199,29 @@ This should be used to represent the text that is a single thought or concept wi
 
 Problem 2
 
-In HTML, the difference between a <div> and a <span> is that:
+In HTML, the difference between a div and a span is that:
     
     
 
-A <div> should contain larger pieces of content that stand alone as a unit, whereas a <span> is a small piece of content.- correct
+A div should contain larger pieces of content that stand alone as a unit, whereas a span is a small piece of content.- correct
     
     
 
-A <div> will always be rendered in a larger font than a <span>.
+A div will always be rendered in a larger font than a span.
     
     
 
-A <div> is part of the HTML page’s <head> element whereas a <span> is part of the <body>.
+A div is part of the HTML page’s head element whereas a span is part of the body.
     
     
 
-A <div> must have a <p> element as a child whereas a <span> cannot.
+A div must have a p element as a child whereas a span cannot.
     
 
 Answer
 Correct: 
 
-A <div> is generally used for holding major pieces of the page, e.g. a menu or navigation bar, whereas a <span> is generally just a few words or sentences.
+A div is generally used for holding major pieces of the page, e.g. a menu or navigation bar, whereas a span is generally just a few words or sentences.
     
     
 
@@ -296,7 +296,7 @@ The <style> tag in the header of the HTML.
     
     
 
-The <css> tag in the header of the HTML.
+The css tag in the header of the HTML.
     
     
 
@@ -316,25 +316,7 @@ Problem 2 
 Assuming you have internal CSS that reads <style>.funText { color: blue; }</style>which of the following will be rendered as blue text?
 
 
-
-<span id=”funText”>Fun!</span>
-
-
-
-<span class=”funText”>Fun!</span> - correct
-
-
-
-<class funText>Fun!</class>
-
-
-
-<funText>Fun!</funText>
-
-
-
-Answer
-Correct: 
+Correct Answer
 
 The “.” notation in the CSS selector selects elements in the specified class.
 
