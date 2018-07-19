@@ -10,17 +10,13 @@ In the code below, assume that button is a variable that represents a button in 
 
 
 button.addEventListener('click', function() {
-
 alert('clicked!');
-
 }
 
  CORRECT ANSWER
  
  button.addEventListener'click', () => {
- 
  alert('clicked!');
- 
  }
 
 EXPLANATION: This code uses the “arrow notation” for defining an anonymous function. Although it takes no parameters, we still need the empty parameter list within the parentheses before using the arrow symbol.
@@ -39,8 +35,8 @@ Array and Set
 LinkedList and HashMap
 
  
-Explanation
-There is no List data structure in JavaScript, and Arrays already exist, of course.
+
+EXPLANATION:There is no List data structure in JavaScript, and Arrays already exist, of course.
 
 
 Problem 1
@@ -60,8 +56,7 @@ circle cx='50' cy='50' r='20'/ -  correct
 circle x='50' y='50' r='20'/
 
 
-Answer
-Correct: The origin point (0,0) is the top left corner, so the center of an SVG element that is 100x100 would be (50,50), and we use the “cx” and “cy” attributes to specify the circle’s center.
+EXPLANATION: The origin point (0,0) is the top left corner, so the center of an SVG element that is 100x100 would be (50,50), and we use the “cx” and “cy” attributes to specify the circle’s center.
 
 
 Problem 2
@@ -81,9 +76,7 @@ d3('svg');
 $d3.select('svg');
 
 
-
-Answer
-Correct: The d3 variable is accessible in the page when you include the D3.js library, and you can use its “select” function to access HTML elements. Option #1 is jQuery, of course!
+EXPLANATION: The d3 variable is accessible in the page when you include the D3.js library, and you can use its “select” function to access HTML elements. Option #1 is jQuery, of course!
 
 
 Problem 1
@@ -99,8 +92,8 @@ modify the element’s size.
 
 change the origin point of the element’s coordinate system. - correct
 
-Explanation
-The “transform” attribute in general lets us modify the SVG element in some way, and the “translate” function change its location, thus affecting the origin of the coordinate system.
+n
+EXPLANATION:The “transform” attribute in general lets us modify the SVG element in some way, and the “translate” function change its location, thus affecting the origin of the coordinate system.
 
 
 Problem 2
@@ -124,8 +117,8 @@ Which of the following would draw circles for which the radius of each circle eq
  .attr('r', (d, i) => {return d; } );
 
 
-Explanation
-We need to use the D3 “data” function to bind the array with the SVG container that we’ve created, and then “enter” to apply the following function to each element. When setting the “r” attribute of each circle, we use the parameter “d” which is the value that is stored in the array.
+
+EXPLANATION:We need to use the D3 “data” function to bind the array with the SVG container that we’ve created, and then “enter” to apply the following function to each element. When setting the “r” attribute of each circle, we use the parameter “d” which is the value that is stored in the array.
 
 Problem 1
 
