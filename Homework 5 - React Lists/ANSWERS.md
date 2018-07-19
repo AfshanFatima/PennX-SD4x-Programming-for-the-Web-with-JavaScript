@@ -1,9 +1,10 @@
 
-Creating Data Driven Web Content with D3.js
+CREATING DATA DRIVEN WEB CONTENT WITH  D3.js
 
 
 
 Problem 1
+
 
 In the code below, assume that button is a variable that represents a button in the HTML page’s DOM. Using ES6, how can I rewrite the code below? 
 
@@ -14,7 +15,7 @@ alert('clicked!');
 
 }
 
- correct--- 
+ CORRECT ANSWER
  
  button.addEventListener'click', () => {
  
@@ -22,8 +23,7 @@ alert('clicked!');
  
  }
 
-Answer
-Correct: This code uses the “arrow notation” for defining an anonymous function. Although it takes no parameters, we still need the empty parameter list within the parentheses before using the arrow symbol.
+EXPLANATION: This code uses the “arrow notation” for defining an anonymous function. Although it takes no parameters, we still need the empty parameter list within the parentheses before using the arrow symbol.
 
 Problem 2
 
@@ -48,16 +48,16 @@ Problem 1
 I have an SVG element that has width and height both equal to 100. Which of the following would I use in order to get a circle with radius 20 to appear in the center of the SVG element?
 
 
-<circle cx='0' cy='0' r='20'/>
+circle cx='0' cy='0' r='20'/
 
 
-<circle center='50, 50' r='20'/>
+circle center='50, 50' r='20'/
 
 
-<circle cx='50' cy='50' r='20'/> -  correct
+circle cx='50' cy='50' r='20'/ -  correct
 
 
-<circle x='50' y='50' r='20'/>
+circle x='50' y='50' r='20'/
 
 
 Answer
@@ -145,12 +145,10 @@ var data =
 
 If I were drawing circles, the following would set the radius to be equal to the “price” property of each object?
 
-.attr('r', (d, i) => { return d.data.price; } ); -- correct
+.attr('r', (d, i) => { return d.data.price; } );  -CORRECT ANSWER
 
 
-
-Answer
-Correct: In this case, the parameter “d” refers to the entire object in the array of data, so we can just get the “price” property using “d.price”.
+EXPLANATION: In this case, the parameter “d” refers to the entire object in the array of data, so we can just get the “price” property using “d.price”.
 
 Problem 2
 
@@ -165,5 +163,4 @@ d3.json - correct
 
 $.getJSON
 
-Answer
-Correct: This function sends an HTTP request to the specified URL and expects a JSON object in return; it then invokes the specified callback function and passes the JSON object to it as an argument.
+EXPLANATION: This function sends an HTTP request to the specified URL and expects a JSON object in return; it then invokes the specified callback function and passes the JSON object to it as an argument.
