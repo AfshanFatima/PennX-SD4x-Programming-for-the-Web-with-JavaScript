@@ -29,6 +29,8 @@ Answer
 Correct: 
 JavaScript has five primary variable types.
 
+
+
 Problem 2
 
 In JavaScript, what will happen if we attempt to change a variable’s type like this? 
@@ -46,6 +48,8 @@ Answer
 Correct: 
 In JavaScript, it is okay to change a variable’s type, so here value becomes “true”.
 
+
+
 Problem 1
 
 Given the following JavaScript, what is printed to the console?
@@ -61,6 +65,8 @@ All three elements are printed.
 Answer
 Correct: 
 The array indices are 0-based, meaning that there are elements #0, 1, and 2 but not #3. In JavaScript, accessing an index that does not exist in the array returns undefined.
+
+
 
 Problem 2
 
@@ -78,6 +84,8 @@ The string 'eagle' would be added to the front of the array.
 Answer
 Correct: 
 In JavaScript, it is possible to set elements using an index that is outside the bounds of the array, and the element will then be added to the array. Here, it is added to the end because the array already has 4 elements, so index #4 would come after the last element.
+
+
 
 Problem 3
 
@@ -98,6 +106,8 @@ Answer
 Correct: 
 In JavaScript we can access an object’s properties using the “dot” notation or by using the “array” notation with the property name passed as a string.
 
+
+
 Problem 1
 
 I have some JavaScript code for which the expression a===b returns true. In this case, what will a==b return?
@@ -117,6 +127,7 @@ In JavaScript, the triple-equals operator compares values as well as types, wher
 
 
 
+
 Problem 2
 
 In JavaScript the expression if(′false′) will evaluate to:
@@ -131,6 +142,8 @@ This will cause an exception because it is not possible to use a string in an if
 Answer
 Correct: 
 JavaScript allows all variable types to be evaluated in the conditions of if-statements. Any non-empty string is considered truthy, which will then evaluate to true.
+
+
 
 
 Problem 1 
@@ -150,6 +163,8 @@ Answer
 Correct: 
 The forEach function does not return anything or modify the array; it simply applies the function to each element.
 
+
+
 Problem 2
 
 A JavaScript prototype function is:
@@ -165,6 +180,8 @@ shorthand notation for specifying a function’s parameters.
 Answer
 Correct: 
 Prototype functions are invoked using the keyword new and return objects.
+
+
 
 Problem 1
 
@@ -182,6 +199,9 @@ Answer
 Correct: 
 The search function determines whether the argument can be found within the string. If so, it returns the index at which the argument starts; if not, it returns -1.
 
+
+
+
 Problem 2 
 
 Given a string variable named str with value 'abc1', which of the following will return true?
@@ -197,6 +217,9 @@ Given a string variable named str with value 'abc1', which of the following w
 Answer
 Correct:
 This regular expression means “a lowercase letter; followed by a lowercase letter or digit; followed by a digit,” which matches “bc1” at the end of the string. None of the other regular expression patterns match this string.
+
+
+
 
 Problem 3
 
