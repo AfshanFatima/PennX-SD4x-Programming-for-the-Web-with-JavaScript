@@ -1,6 +1,9 @@
-Syllabus
+# PennX: SD4x PROGRAMMING FOR THE WEB WITH JAVASCRIPT
 
-Course Overview
+
+**Syllabus**
+
+**Course Overview**
 
 JavaScript is the programming language of the World Wide Web.
 
@@ -16,20 +19,26 @@ This course will also introduce you to modern web frameworks and component-based
 Server-side JavaScript is becoming more prevalent in the industry, with web frameworks such as Node.js and Express making it simple to create and deploy complex, data-driven web applications. This course will prepare you to use such frameworks and show you how to integrate them with NoSQL databases such as MongoDB.
 
 
-Prerequisites
+### Prerequisites
 
 
 Basic knowledge of computer programming (variables, functions, control flow)
 Knowledge of core data structures (arrays, lists, sets, trees)
-Course Outline
-
-Week 1 - Web Programming Basics: how web browsers and servers communicate using HTTP; creating static web content with HTML and CSS
 
 
-Week 2 - Using JavaScript to Create Dynamic Web Pages: basics of the JavaScript programming language; accessing HTML elements from embedded JavaScript using the DOM and jQuery
+## Course Outline
+
+_** Week 1 - Web Programming Basics: **
+how web browsers and servers communicate using HTTP; creating static web content with HTML and CSS
 
 
-Week 3 - Client-Side Frameworks for Developing Modular Web Page Components: component-based web app development using React; creating data-driven documents with D3.js
+_**Week 2 - Using JavaScript to Create Dynamic Web Pages:**
+basics of the JavaScript programming language; accessing HTML elements from embedded JavaScript using the DOM and jQuery
 
 
-Week 4 - Building Scalable Web Apps with Server-Side JavaScript: generating dynamic content on the server using Node.js and Express; storing and retrieving data in MongoDB; developing an API for the web
+_**Week 3 - Client-Side Frameworks for Developing Modular Web Page Components:**
+component-based web app development using React; creating data-driven documents with D3.js
+
+
+_**Week 4 - Building Scalable Web Apps with Server-Side JavaScript:**
+generating dynamic content on the server using Node.js and Express; storing and retrieving data in MongoDB; developing an API for the web
