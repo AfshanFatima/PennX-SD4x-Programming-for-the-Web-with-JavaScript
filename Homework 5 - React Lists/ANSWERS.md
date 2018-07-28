@@ -92,7 +92,7 @@ modify the element’s size.
 
 change the origin point of the element’s coordinate system. - correct
 
-n
+
 EXPLANATION:The “transform” attribute in general lets us modify the SVG element in some way, and the “translate” function change its location, thus affecting the origin of the coordinate system.
 
 
