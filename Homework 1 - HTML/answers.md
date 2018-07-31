@@ -9,7 +9,7 @@
 
 
 
-**Problem 1 **
+**Problem 1**
 
 We can consider the Internet to be a graph in which:
 
@@ -31,7 +31,7 @@ Answer Correct:
 The Internet is the physical network of machines that are connected by media.
 
 
-**Problem 2 **
+**Problem 2**
 
 A Uniform Resource Locator (URL) is:
 
@@ -54,7 +54,7 @@ A URL is a type of URI, but the URI does not necessarily specify the protocol us
 
 
 
-**Problem 1 **
+**Problem 1**
 
 Hypertext Transfer Protocol (HTTP) is used to:
 
