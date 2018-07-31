@@ -101,7 +101,7 @@ The URL that was requested and the content at that address.
 Information about the server.
 
 
-Correct Answer :
+Answer Correct :
 This tells the client/browser which version of HTTP the server is using and whether the request was successfully handled.
 
 Developing web pages with html
@@ -130,8 +130,7 @@ title and body
     
 
 Answer
-Correct! 
-
+Correct:
 The head element contains information about the page and references to external resources; the body element contains the content itself.
     
     
@@ -289,11 +288,14 @@ This allows us to specify the appearance for a single element.
 
 **Problem 2** 
 
-Assuming you have internal CSS that reads <style>.funText { color: blue; }</style>which of the following will be rendered as blue text?
+Assuming you have internal CSS that reads
+``` 
+<style>.funText { color: blue; }</style>
+```
+the following will be rendered as blue text?
 
 
-Correct Answer
-
+Answer Correct:
 The “.” notation in the CSS selector selects elements in the specified class.
 
 
@@ -400,7 +402,6 @@ Allow parts of Web pages to change while other parts stay the same.
 
 Answer
 Correct: 
-
 RWD is an approach to designing Web pages in a way that takes all devices into account.
 
 
@@ -410,17 +411,16 @@ When organizing content using Bootstrap, we use:
 
 
 
-<div> elements in the “container” and “row” classes. - correct
+div elements in the “container” and “row” classes. - correct
 
-<div> elements in the “table” and “tr” classes.
+div elements in the “table” and “tr” classes.
     
 
-<table> and <tr> elements in the “container” classes.
+table and tr elements in the “container” classes.
     
-
-<row> and <col> elements in the “container” classes.
+row and col elements in the “container” classes.
     
 
 Answer
 Correct: 
-The “container” <div> spans the width of the page and represents the area where the RWD content should reside. The “row” <div>represents the horizontal group of columns that hold the content.
+The “container” div spans the width of the page and represents the area where the RWD content should reside. The “row” div represents the horizontal group of columns that hold the content.
