@@ -11,7 +11,7 @@
 
 
 
-Problem 1
+**Problem 1**
 
 The primary variable types in JavaScript are:
 
@@ -31,7 +31,7 @@ JavaScript has five primary variable types.
 
 
 
-Problem 2
+**Problem 2**
 
 In JavaScript, what will happen if we attempt to change a variable’s type like this? 
 
@@ -50,7 +50,7 @@ In JavaScript, it is okay to change a variable’s type, so here value becomes
 
 
 
-Problem 1
+**Problem 1**
 
 Given the following JavaScript, what is printed to the console?
 
@@ -68,7 +68,7 @@ The array indices are 0-based, meaning that there are elements #0, 1, and 2 but 
 
 
 
-Problem 2
+**Problem 2**
 
 Given the following JavaScript, what behavior would you observe? 
 
@@ -87,7 +87,7 @@ In JavaScript, it is possible to set elements using an index that is outside the
 
 
 
-Problem 3
+**Problem 3**
 
 I have a JavaScript object defined as follows: 
 
@@ -108,7 +108,7 @@ In JavaScript we can access an object’s properties using the “dot” notatio
 
 
 
-Problem 1
+**Problem 1**
 
 I have some JavaScript code for which the expression a===b returns true. In this case, what will a==b return?
 
@@ -128,7 +128,7 @@ In JavaScript, the triple-equals operator compares values as well as types, wher
 
 
 
-Problem 2
+**Problem 2**
 
 In JavaScript the expression if(′false′) will evaluate to:
 
@@ -146,7 +146,7 @@ JavaScript allows all variable types to be evaluated in the conditions of if-sta
 
 
 
-Problem 1 
+**Problem 1**
 
 If I have a JavaScript array called array and a function called fun, the array.forEach(fun)will:
 
@@ -165,7 +165,7 @@ The forEach function does not return anything or modify the array; it simply a
 
 
 
-Problem 2
+**Problem 2**
 
 A JavaScript prototype function is:
 
@@ -183,7 +183,7 @@ Prototype functions are invoked using the keyword new and return objects.
 
 
 
-Problem 1
+**Problem 1**
 
 Given the following JavaScript, what would be printed to the console?
 
@@ -202,7 +202,7 @@ The search function determines whether the argument can be found within the st
 
 
 
-Problem 2 
+**Problem 2**
 
 Given a string variable named str with value 'abc1', which of the following will return true?
 
@@ -221,7 +221,7 @@ This regular expression means “a lowercase letter; followed by a lowercase let
 
 
 
-Problem 3
+**Problem 3**
 
 Given a string variable named str with value 'abc1def2', which of the following will return true?
 

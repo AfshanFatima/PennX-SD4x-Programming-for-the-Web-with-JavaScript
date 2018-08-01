@@ -13,7 +13,7 @@ function calculateFoodOrder(numAnimals, avgFood) {
     if (input.some(isNaN) || input.some((n) => n < 0)) {
         return -1;
     }
-        return input[0] * input[1];
+    return input[0] * input[1];
     // IMPLEMENT THIS FUNCTION!
 }
 
@@ -29,14 +29,14 @@ function calculateFoodOrder(numAnimals, avgFood) {
 
 function mostPopularDays(week) {
     if (week && week.length) {
-        result =[];
+        result = [];
         maxTraffic = 0;
         for (let day of week) {
             const dayTraffic = day.traffic;
             if (dayTraffic > maxTraffic) {
                 result = [day.name];
                 maxTraffic === dayTraffic;
-            } 
+            }
             else if (dayTraffic === maxTraffic) {
                 result.push(day.name);
             }
@@ -61,12 +61,12 @@ function mostPopularDays(week) {
  */
 function createAnimalObjects(names, types, breeds) {
     const animals = [];
-    
+
     if (names && types && breeds && names.length && names.length === types.length && names.length === breeds.length) {
         const length = names.length;
-    for (let i = 0; i < length; i++){
-        animals.push(new Animal(names[i], types[i], breeds[i]));
-    }
+        for (let i = 0; i < length; i++) {
+            animals.push(new Animal(names[i], types[i], breeds[i]));
+        }
     }
     return animals;
     // IMPLEMENT THIS FUNCTION!
@@ -82,7 +82,7 @@ function createAnimalObjects(names, types, breeds) {
 /**
  * A prototype to create Weekday objects
  */
-function Weekday (name, traffic) {
+function Weekday(name, traffic) {
     this.name = name;
     this.traffic = traffic;
 }
@@ -90,19 +90,19 @@ function Weekday (name, traffic) {
 /**
  * A prototype to create Item objects
  */
-function Item (name, barcode, sellingPrice, buyingPrice) {
-     this.name = name;
-     this.barcode = barcode;
-     this.sellingPrice = sellingPrice;
-     this.buyingPrice = buyingPrice;
-}
- /**
-  * A prototype to create Animal objects
-  */
-function Animal (name, type, breed) {
+function Item(name, barcode, sellingPrice, buyingPrice) {
     this.name = name;
-     this.type = type;
-     this.breed = breed;
+    this.barcode = barcode;
+    this.sellingPrice = sellingPrice;
+    this.buyingPrice = buyingPrice;
+}
+/**
+ * A prototype to create Animal objects
+ */
+function Animal(name, type, breed) {
+    this.name = name;
+    this.type = type;
+    this.breed = breed;
 }
 
 
