@@ -1,8 +1,8 @@
-[# PennX: SD4x PROGRAMMING FOR THE WEB WITH JAVASCRIPT](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
+**[ PENNX: SD4x PROGRAMMING FOR THE WEB WITH JAVASCRIPT](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)**
 
 [Penn Engineering Professional Certificate in CS Essentials for Software Development](https://www.edx.org/professional-certificate/computer-science-essentials-software)
 
-This course is part of the Computer Science Essentials for Software Development Professional Certificate program. If you are interested in earning a Professional Certificate credential you must complete and successfully earn a verified certificate in all four of the Professional Certificate courses:
+This course is part of the Computer Science Essentials for Software Development Professional program.
 
 [Software Development Fundamentals](https://www.edx.org/course/software-development-fundamentals-pennx-sd1x)
 
@@ -14,6 +14,8 @@ This course is part of the Computer Science Essentials for Software Development 
 
 
 **Syllabus**
+
+
 **Course Overview**
 
 JavaScript is the programming language of the World Wide Web.
