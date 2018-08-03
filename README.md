@@ -47,7 +47,7 @@ Knowledge of core data structures (arrays, lists, sets, trees)
 
 How web browsers and servers communicate using HTTP; creating static web content with HTML and CSS.
 
-![alt text] (https://prod-edxapp.edx-cdn.org/assets/courseware/v1/5f039a00de3eb4a457e23952300e4fc9/asset-v1:PennX+SD4x+2T2017+type@asset+block/Hwk1-calendar.png    width="100" height="100")
+![alt text](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/5f039a00de3eb4a457e23952300e4fc9/asset-v1:PennX+SD4x+2T2017+type@asset+block/Hwk1-calendar.png)
 
 
 ###### [Week 2 - Using JavaScript to Create Dynamic Web Pages:](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/courseware/179922122c5f4cb180c57e33213faaf4/97c2cb935275489aa67314ff28f9629c/?child=first)
