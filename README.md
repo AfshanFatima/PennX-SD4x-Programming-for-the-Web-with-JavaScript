@@ -1,4 +1,4 @@
-**[ PENNX: SD4x PROGRAMMING FOR THE WEB WITH JAVASCRIPT](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)**
+**[ PennX: SD4x PROGRAMMING FOR THE WEB WITH JAVASCRIPT](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)**
 
 [Penn Engineering Professional Certificate in CS Essentials for Software Development](https://www.edx.org/professional-certificate/computer-science-essentials-software)
 
