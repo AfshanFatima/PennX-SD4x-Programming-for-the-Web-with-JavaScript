@@ -1,4 +1,16 @@
-# PennX: SD4x PROGRAMMING FOR THE WEB WITH JAVASCRIPT
+[# PennX: SD4x PROGRAMMING FOR THE WEB WITH JAVASCRIPT](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
+
+[Penn Engineering Professional Certificate in CS Essentials for Software Development](https://www.edx.org/professional-certificate/computer-science-essentials-software)
+
+This course is part of the Computer Science Essentials for Software Development Professional Certificate program. If you are interested in earning a Professional Certificate credential you must complete and successfully earn a verified certificate in all four of the Professional Certificate courses:
+
+[Software Development Fundamentals](https://www.edx.org/course/software-development-fundamentals-pennx-sd1x)
+
+[Data Structures and Software Design](https://www.edx.org/course/data-structures-software-design-pennx-sd2x)
+
+[Algorithm Design and Analysis](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x)
+
+[Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 
 
 **Syllabus**
@@ -27,25 +39,25 @@ Knowledge of core data structures (arrays, lists, sets, trees)
 
 ## Course Outline
 
-**Week 1 - Web Programming Basics:**
+[Week 1 - Web Programming Basics:](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/courseware/6d6b74bb9f8c43088e919a6310f19b39/da2fb7ae127c47ae883a6eb95a65bdb9/?activate_block_id=block-v1%3APennX%2BSD4x%2B2T2017%2Btype%40sequential%2Bblock%40da2fb7ae127c47ae883a6eb95a65bdb9)
 
 
-How web browsers and servers communicate using HTTP; creating static web content with HTML and CSS
+How web browsers and servers communicate using HTTP; creating static web content with HTML and CSS.
 
 
-**Week 2 - Using JavaScript to Create Dynamic Web Pages:**
+[Week 2 - Using JavaScript to Create Dynamic Web Pages:](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/courseware/179922122c5f4cb180c57e33213faaf4/97c2cb935275489aa67314ff28f9629c/?child=first)
 
 
-Basics of the JavaScript programming language; accessing HTML elements from embedded JavaScript using the DOM and jQuery
+Basics of the JavaScript programming language; accessing HTML elements from embedded JavaScript using the DOM and jQuery.
 
 
-**Week 3 - Client-Side Frameworks for Developing Modular Web Page Components:**
+[Week 3 - Client-Side Frameworks for Developing Modular Web Page Components:](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/courseware/179922122c5f4cb180c57e33213faaf4/6f11927d2bfd4809b04eaa804a874711/?child=first)
 
 
-Component-based web app development using React; creating data-driven documents with D3.js
+Component-based web app development using React; creating data-driven documents with D3.js.
 
 
-**Week 4 - Building Scalable Web Apps with Server-Side JavaScript:**
+[Week 4 - Building Scalable Web Apps with Server-Side JavaScript:](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/courseware/05f321f8b38c400b96330598e23d639c/316869bbc9304b30bde6890d32c251fa/?activate_block_id=block-v1%3APennX%2BSD4x%2B2T2017%2Btype%40sequential%2Bblock%40316869bbc9304b30bde6890d32c251fa)
 
 
-Generating dynamic content on the server using Node.js and Express; storing and retrieving data in MongoDB; developing an API for the web
+Generating dynamic content on the server using Node.js and Express; storing and retrieving data in MongoDB; developing an API for the web.
