@@ -68,3 +68,35 @@ Component-based web app development using React; creating data-driven documents 
 
 
 Generating dynamic content on the server using Node.js and Express; storing and retrieving data in MongoDB; developing an API for the web.
+
+### Additional Resources
+
+![](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/e8f5799d7c844300a56aaba810385624/)
+
+For supplemental reading material and resources for Week 1 of the course (HTML and CSS), we recommend the following:
+
+* https://www.w3schools.com/html/
+
+* https://www.w3schools.com/css/
+
+For supplemental reading material and resources for Week 2 of the course (JavaScript and jQuery), we recommend the following:
+
+* https://www.w3schools.com/js/
+
+* https://www.w3schools.com/jquery/
+
+For supplemental reading material and resources for Week 3 of the course (React.js and D3.js), we recommend the following:
+
+* https://facebook.github.io/react/
+
+* https://d3js.org/
+
+For supplemental reading material and resources for Week 4 of the course (Node.js, Express, MongoDB, and Mongoose), we recommend the following:
+
+* https://nodejs.org/
+
+* https://expressjs.com/
+
+* https://www.mongodb.com/
+
+* http://mongoosejs.com/
