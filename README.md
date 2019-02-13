@@ -1,7 +1,7 @@
 # [PennX: SD4x Programming For The Web With JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 
 
-#### [Penn Engineering Professional Certificate in CS Essentials for Software Development](https://www.edx.org/professional-certificate/computer-science-essentials-software)
+#### [PennX Computer Science Essentials for Software Development](https://www.edx.org/professional-certificate/computer-science-essentials-software)
 
 This course is part of the Computer Science Essentials for Software Development Professional program.
 
